@@ -1,3 +1,7 @@
+# [Capital Cities]
+# [Python 2.7]
+# Written by [mirsahib]
+
 import csv
 
 def main():
